@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "author": "Joe",
+    "text": "text1",
+    "date": "2015-09-01T12:00:00Z",
+    "likes": 101,
+    "image": "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "2",
+    "author": "Jane",
+    "text": "text2",
+    "date": "2015-09-01T12:05:00Z",
+    "likes": 56,
+    "image": "https://miro.medium.com/v2/resize:fit:2000/1*HkM78Z1G5UKqQNCHwBHRfA.png"
+  }
+]
