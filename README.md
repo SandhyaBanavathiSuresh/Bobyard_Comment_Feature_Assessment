@@ -18,3 +18,8 @@ Run the application
 ## npm start
 Frontend will run on port 3000 (http://localhost:3000/)
 
+### Future Enhancements
+1. Upload Image Feature
+2. Admin Login and authentication
+etc
+
